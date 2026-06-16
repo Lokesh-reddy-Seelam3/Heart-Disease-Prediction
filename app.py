@@ -141,7 +141,7 @@ st.markdown(f"""
     """, unsafe_allow_html=True)
 
 # App Content Headers
-st.title("❤️ Cardiovascular Risk Assessment")
+st.title("❤️ Heart Disease Prediction")
 st.markdown('<p class="sub-title-text">Machine Learning Diagnostic Interface</p>', unsafe_allow_html=True)
 
 # Grid Layout for Fields
